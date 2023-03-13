@@ -3,3 +3,4 @@ venv
 **__paycache__
 .idea
 db.sqlite3
+.env
